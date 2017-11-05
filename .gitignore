@@ -1,0 +1,5 @@
+.DS_Store
+db_backup_orig.sql
+imgupload_orig.php
+imgdb_orig.php
+logs/
