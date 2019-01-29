@@ -14,7 +14,7 @@ Mainly, it features **photographs** and some other **graphic stuff** that I made
 Additionally, and that's the part I'm still relatively confident with, you can find my JavaScript implementation of the game **_Mastermind_** over there. Not sure if the algorithm is the best, the drag'n'drop doesn't work on touch screens, but I think it's pretty, and fun :)  
 *[Next step is to add some AI to it.]*
 
-#### Structure
+### Structure
 If I recall correctly, I had the **images** stored on the same server, but all meta data in a database – loading both **dynamically** from a simple **API**.  
 For convenience, I had also built myself a little **upload-area** that allowed me to enter the meta data together with the image itself in a web form. Thumbnails were created automatically by the **PHP backend**, too.  
 The rest is not that special: **static hosting**, *Bootstrap*, *Lightbox* (super retro, I know) and a category filtered image grid.
